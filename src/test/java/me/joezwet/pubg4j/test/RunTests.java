@@ -21,6 +21,6 @@ import me.joezwet.pubg4j.PUBG;
 public class RunTests {
 
     public static void main(String[] args) {
-        PUBG api = new PUBG("This is not a key");
+        PUBG api = new PUBG("API-KEY");
     }
 }
